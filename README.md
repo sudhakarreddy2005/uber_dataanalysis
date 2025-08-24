@@ -29,21 +29,21 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
 ### 1. Incomplete Rides Reasons
 - **Observation:** The most common reason for incomplete rides is **Customer Demand**.  
 - **Visualisation:**  
-  ![Incomplete Rides](images/incomplete_rides_reason.png)
+  ![Incomplete Rides](incomplete_rides_reason.png)
 
 
 
 ### 2. Customer Cancellation Reasons
 - **Observation:** The top reasons for customer cancellations are **Wrong Address** and **Change of Plans**.  
 - **Visualisation:**  
-  ![Customer Cancellation](images/customer_cancellation_reasons.png)
+  ![Customer Cancellation](customer_cancellation_reasons.png)
 
 
 
 ### 3. Driver Cancellation Reasons
 - **Observation:** The major driver-side cancellation reasons are **Customer Related Issues** and **Customer was Sick**.  
 - **Visualisation:**  
-  ![Driver Cancellation](images/driver_cancellation_reasons.png)
+  ![Driver Cancellation](driver_cancellation_reasons.png)
 
 
 
@@ -52,7 +52,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
   - The average rating (IQR) is **4.25**.  
   - Outliers exist at **3.0–3.75** and **4.5–5.0**.  
 - **Visualisation:**  
-  ![Driver Ratings Boxplot](images/driver_ratings_boxplot.png)
+  ![Driver Ratings Boxplot](driver_ratings_boxplot.png)
 
 
 
@@ -61,7 +61,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
   - Most drivers are rated around **4.3**.  
   - **Auto** drivers receive the highest number of ratings, followed by **GoMini** and **GoSedan**.  
 - **Visualisation:**  
-  ![Driver Ratings by Vehicle](images/driver_ratings_vehicle.png)
+  ![Driver Ratings by Vehicle](driver_ratings_vehicle.png)
 
 
 
@@ -71,7 +71,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
   - Customers are generally satisfied with autos, GoMini, GoSedan, and bikes.  
   - Ratings in the **3.0–3.5 range** are considered outliers.  
 - **Visualisation:**  
-  ![Customer Ratings](images/customer_ratings.png)
+  ![Customer Ratings](customer_ratings.png)
 
 
 
@@ -80,7 +80,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
   - **UPI** is the most popular payment method.  
   - Followed by **Cash** and **Uber Wallet**.  
 - **Visualisation:**  
-  ![Payment Methods](images/payment_methods.png)
+  ![Payment Methods](payment_methods.png)
 
 
 
@@ -88,7 +88,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
 - **Observation:**  
   - The most frequently used vehicles are **Auto** and **GoMini**, followed by **GoSedan**.  
 - **Visualisation:**  
-  ![Vehicle Usage](images/vehicle_usage.png)
+  ![Vehicle Usage](vehicle_usage.png)
 
 
 
@@ -98,7 +98,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
   - **Auto, GoMini, and Bike** are most often paid via UPI.  
   - With **Cash**, Auto, GoMini, and GoSedan dominate.  
 - **Visualisation:**  
-  ![Vehicle vs Payment](images/vehicle_vs_payment.png)
+  ![Vehicle vs Payment](vehicle_vs_payment.png)
 
 
 
@@ -106,7 +106,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
 - **Observation:**  
   - A minimum booking of **₹50** corresponds to a **minimum ride distance of 2.27 km**.  
 - **Visualisation:**  
-  ![Min Ride Distance](images/min_ridedistance.png)
+  ![Min Ride Distance](min_ridedistance.png)
 
 
 
@@ -114,7 +114,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
 - **Observation:**  
   - Maximum ride distances are also available at **₹50**, showing variation in booking pricing.  
 - **Visualisation:**  
-  ![Max Ride Distance](images/max_ridedistance.png)
+  ![Max Ride Distance](max_ridedistance.png)
 
 
 
@@ -122,7 +122,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
 - **Observation:**  
   - Each pickup location has a **most frequent drop location**, helping understand popular ride flows.  
 - **Visualisation:**  
-  ![Pickup Drop Analysis](images/pickup_drop.png)
+  ![Pickup Drop Analysis](pickup_drop.png)
 
 
 
@@ -132,7 +132,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
   - At **10 AM**, autos are nearly equal to GoMini rides.  
   - At **12 PM**, bookings decline but rise again post 3 PM.  
 - **Visualisation:**  
-  ![Hourly Bookings](images/hourly_bookings.png)
+  ![Hourly Bookings](hourly_bookings.png)
 
 
 
