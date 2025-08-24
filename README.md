@@ -29,7 +29,7 @@ This project analyses Uber ride data to uncover insights into ride behaviour, ca
 ### 1. Incomplete Rides Reasons
 - **Observation:** The most common reason for incomplete rides is **Customer Demand**.  
 - **Visualisation:**  
-  ![Incomplete Rides]()
+  ![Incomplete Rides](https://github.com/sudhakarreddy2005/uber_dataanalysis/blob/main/1incomplete_rides_reason.png.png)
 
 
 
