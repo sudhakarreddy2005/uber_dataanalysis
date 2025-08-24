@@ -153,7 +153,7 @@ The analysis highlights the following key findings:
 1. Clone this repository.  
 2. Open the Jupyter Notebook (`uber.ipynb`).  
 3. Run all cells to reproduce the analysis and plots.  
-4. Refer to the `images/` folder for saved visualisations.  
+
 
 
 
